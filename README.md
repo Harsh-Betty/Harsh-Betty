@@ -34,7 +34,7 @@ I’m a Frontend developer and a UI/UX designer (and a Swiftie).
 
 <hr>
 
-<h3 align="center">Languages, Frameworks, and Tools:</h3>
+<h3 align="center">Languages, Frameworks and Tools:</h3>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstarp" alt="bootstrap" width="40" height="40"/>&nbsp;
