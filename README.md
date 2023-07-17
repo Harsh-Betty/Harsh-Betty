@@ -8,9 +8,9 @@
 ### About Me :
 I’m a Frontend developer and a UI/UX designer (and a Swiftie).
 <br>
-- :telescope: I’m a student and a I love exploring new fields.
+- :telescope: I’m a student, and I love exploring new fields.
 
-- :seedling: I'm currently looking for an internship & working on my graphic designing skills.
+- :seedling: I'm currently looking for an internship and working on my graphic designing skills.
 
 - :zap: In my free time, I love listening to Taylor Swift's songs.
 
@@ -43,7 +43,8 @@ I’m a Frontend developer and a UI/UX designer (and a Swiftie).
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title='VueJS' alt='VueJS' width='40' height='40'/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title='canvas' alt='canvas' width='40' height='40'/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title='AdobePS' alt='AdobePS' width='40' height='40'/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title='AdobeAI' alt='AdobeAI' width='40' height='40'/>;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title='AdobeAI' alt='AdobeAI' width='40' height='40'/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title='Firebase' alt='firebase' width='40' height='40'/>&nbsp;
 </div>
 
 
