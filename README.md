@@ -20,33 +20,91 @@ I’m a Frontend developer and a UI/UX designer (and a Swiftie).
 
 - :headphones: Listening to: [Taylor Swift](https://www.youtube.com/@TaylorSwift)
 
- <hr>
+<hr>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Harsh-Betty&label=Profile%20Views&color=fe8d41&style=plastic" alt="Harsh-Betty" /> </p>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/harshvardhan-singh-ts13" target="_blank"><img align="center" src="/socials/linked-in-alt.svg" alt="harshvardhan-singh-ts13" height="30" width="40" /></a>
-<a href="https://twitter.com/lokis_gettinbi" target="_blank"><img align="center" src="/socials/twitter.svg" alt="lokis_gettinbi" height="30" width="40" /></a>
-<a href="https://instagram.com/loki.s_gettinbi" target="_blank"><img align="center" src="/socials/instagram.svg" alt="loki.s_gettinbi" height="30" width="40" /></a>
-<a href="https://discord.gg/loki4602" target="_blank"><img align="center" src="/socials/discord.svg" alt="loki4602" height="30" width="40" /></a>
-</p>
+ <div align="center">
+  <img src="https://streak-stats.demolab.com?user=Harsh-Betty&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsh-Betty&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 <hr>
 
-<h3 align="center">Languages, Frameworks and Tools:</h3>
-
 <div align="center">
-  <img src="/skills/bootstrap-original.svg" title="Bootstarp" alt="bootstrap" width="40" height="40"/>&nbsp;
-  <img src="/skills/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="/skills/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="/skills/vuejs-original.svg" title='VueJS' alt='VueJS' width='40' height='40'/>&nbsp;
-  <img src="/skills/canva-original.svg" title='canvas' alt='canvas' width='40' height='40'/>&nbsp;
-  <img src="/skills/photoshop-line.svg" title='AdobePS' alt='AdobePS' width='40' height='40'/>&nbsp;
-  <img src="/skills/illustrator-line.svg" title='AdobeAI' alt='AdobeAI' width='40' height='40'/>&nbsp;
-  <img src="/skills/firebase-plain.svg" title='Firebase' alt='firebase' width='40' height='40'/>&nbsp;
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=betty-ts13&theme=dark" alt="Layout with last medium posts"  />
 </div>
 
+<hr>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Harsh-Betty&label=Profile%20Views&color=fe8d41&style=plastic" alt="Harsh-Betty" /> </p>
+
+<div align="center">
+  <h3>Connect with me:</h3>
+  <a href="https://linkedin.com/in/harshvardhan-singh-ts13" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/lokis_gettinbi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://instagram.com/loki.s_gettinbi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.gg/loki4602" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
+  </a>
+  <a href="mailto:harshvardhansingh1613@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://betty-ts13.medium.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="60" height="40" alt="medium logo"  />
+  </a>
+</div>
+
+<hr>
+
+<div align="center">
+  <h3>Languages, Frameworks and Tools:</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="40" alt="vuetify logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Harsh-Betty/Harsh-Betty/output/snake.svg" alt="Snake animation" />
 
 
 <!--- 👋 Hi, I’m @Harsh-Betty
