@@ -6,11 +6,9 @@
 <h1 align="center">Hello 👋, I'm Harshvardhan Singh</h1>
 
 ### About Me :
-I’m a Frontend developer and a UI/UX designer (and a Swiftie).
+I’m a web developer and a UI/UX designer (and a Swiftie).
 <br>
-- :telescope: I’m a student, and I love exploring new fields.
-
-- :seedling: I'm currently looking for an internship and working on my graphic designing skills.
+- :telescope: Currently working as an SDE@AirLyft.One.
 
 - :zap: In my free time, I love listening to Taylor Swift's songs.
 
