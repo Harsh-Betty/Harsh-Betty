@@ -8,7 +8,7 @@
 ### About Me :
 I’m a web developer and a UI/UX designer (and a Swiftie).
 <br>
-- :telescope: Currently working as an SDE@AirLyft.One.
+- :telescope: Currently working as an [SDE@AirLyft.One](https://www.linkedin.com/company/airlyftone).
 
 - :zap: In my free time, I love listening to Taylor Swift's songs.
 
