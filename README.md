@@ -1,134 +1,108 @@
 <h3 align="center">It's me. Hi. I'm the problem. It's me.</h3>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/geuXiMq0MNqfAyxS7b/giphy.gif"  width="200" height="200"/>
-</div>
-<h1 align="center">Hello 👋, I'm Harshvardhan Singh</h1>
-
-### About Me :
-I’m a web developer and a UI/UX designer (and a Swiftie).
-<br>
-- :telescope: Currently working as an [SDE@AirLyft.One](https://www.linkedin.com/company/airlyftone).
-
-- :zap: In my free time, I love listening to Taylor Swift's songs.
-
-- :mailbox:How to reach me: [:email:](mailto:harshvardhansingh1613@gmail.com) or [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshvardhan-singh-ts13/)
-  
-- :smile_cat: Pronouns: He/Him
-
-- :headphones: Listening to: [Taylor Swift](https://www.youtube.com/@TaylorSwift)
-
-<hr>
-
- <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Harsh-Betty&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsh-Betty&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-<hr>
-
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=betty-ts13&theme=dark" alt="Layout with last medium posts"  />
+  <img src="https://media.giphy.com/media/geuXiMq0MNqfAyxS7b/giphy.gif" width="200" height="200" alt="typescript"/>
 </div>
 
-<hr>
+<h1 align="center">Hey, I'm Harshvardhan Singh 👋</h1>
+<p align="center">
+  Software Engineer · UI/UX designer · Swiftie<br/>
+  <sub>Lucknow, India · he/him</sub>
+</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Harsh-Betty&label=Profile%20Views&color=fe8d41&style=plastic" alt="Harsh-Betty" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harsh-Betty&label=Profile%20views&color=fe8d41&style=flat" alt="profile views"/>
+  <a href="https://www.linkedin.com/in/harshvardhan-singh-ts13" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="mailto:harshvardhansingh1613@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="email"/></a>
+  <a href="https://hrshvrdhn.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-fe8d41?style=flat&logo=vercel&logoColor=white" alt="portfolio"/></a>
+</p>
 
-<div align="center">
-  <h3>Connect with me:</h3>
-  <a href="https://linkedin.com/in/harshvardhan-singh-ts13" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
+---
+
+### About
+
+- 🛠 &nbsp;Currently SDE at [AirLyft.One](https://www.linkedin.com/company/airlyftone), building full-stack TypeScript systems
+- 👯 &nbsp;Open to collaborating on **open-source projects**
+- 🤝 &nbsp;Happy to chat about **system architecture, TS albums, and agentic coding**
+- 🌐 &nbsp;Portfolio: **[hrshvrdhn.com](https://hrshvrdhn.com)**
+- 🎧 &nbsp;Fun fact: my favorite Taylor Swift album is *folklore*
+
+---
+
+### Stack
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css&perline=8" alt="languages"/>
+</p>
+
+**Frameworks & Libraries**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs,express,graphql,tailwind,bootstrap,sass,vue,vuetify,nuxtjs&perline=8" alt="frameworks"/>
+</p>
+
+**Databases & Infra**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,vercel,aws&perline=8" alt="databases and infra"/>
+</p>
+
+**Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vite,vitest,npm&perline=8" alt="tools"/>
+</p>
+
+**Design**
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,xd&perline=8" alt="design"/>
+</p>
+
+---
+
+### Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Harsh-Betty&theme=great-gatsby&hide_border=true&border_radius=8)](https://git.io/streak-stats)
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-Betty&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph&bg_color=0d1117&color=fe8d41&line=f5b800&point=ffffff" alt="activity graph"/>
+</a>
+
+<!-- These cards are self-hosted via .github/workflows/update-stats.yml -->
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub stats"/>
+  &nbsp;
+  <img src="./profile/top-langs.svg" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Harsh-Betty&theme=radical&column=4&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="trophies"/>
   </a>
-  <a href="https://twitter.com/lokis_gettinbi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="40" alt="twitter logo"  />
+</p>
+
+---
+
+### Recent Activity
+
+<!--START_SECTION:activity-->
+<!-- Auto-updated by .github/workflows/update-activity.yml -->
+<!--END_SECTION:activity-->
+
+---
+
+### What I'm listening to
+
+<p align="center">
+  <a href="https://open.spotify.com/user/xhpw27q0f3aylzbbrtbtschjs">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xhpw27q0f3aylzbbrtbtschjs&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&bar_color=f5b800&bar_color_cover=false&mode=dark" alt="now playing on spotify"/>
   </a>
-  <a href="https://instagram.com/loki.s_gettinbi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.gg/loki4602" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
-  </a>
-  <a href="mailto:harshvardhansingh1613@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://betty-ts13.medium.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="60" height="40" alt="medium logo"  />
-  </a>
-</div>
+</p>
 
-<hr>
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=xhpw27q0f3aylzbbrtbtschjs&count=5&unique=true" alt="recently played on spotify"/>
+</p>
 
-<div align="center">
-  <h3>Languages, Frameworks and Tools:</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="40" alt="vuetify logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-</div>
+---
 
-<br clear="both">
+<img src="https://raw.githubusercontent.com/Harsh-Betty/Harsh-Betty/output/snake.svg" alt="snake eating my contributions"/>
 
-<img src="https://raw.githubusercontent.com/Harsh-Betty/Harsh-Betty/output/snake.svg" alt="Snake animation" />
-
-
-<!--- 👋 Hi, I’m @Harsh-Betty
-- 👀 I’m interested in learning new stuff and exploring arious field
-- 🌱 I’m currently working on front-end devolpent.
-- 💞️ I’m looking to collaborate on projects related to python and web designing.
-- 📫 How to reach me ...
-   twitter handle : <twitter-username>
-   linkedin : <linkedin-username>
---->
-<!---
-Harsh-Betty/Harsh-Betty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<!--
-**Harsh-Betty/Harsh-Betty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><sub>Long story short, I survived.</sub></p>
