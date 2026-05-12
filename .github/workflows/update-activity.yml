@@ -21,3 +21,4 @@ jobs:
         with:
           COMMIT_MSG: "chore: update recent activity"
           MAX_LINES: 10
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
