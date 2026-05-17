@@ -84,7 +84,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/fufa-ai/fufa-magento/pull/1) in [fufa-ai/fufa-magento](https://github.com/fufa-ai/fufa-magento)
+1. ❌ Closed PR [#7](https://github.com/Harsh-Betty/swiftie-api/pull/7) in [Harsh-Betty/swiftie-api](https://github.com/Harsh-Betty/swiftie-api)
 <!--END_SECTION:activity-->
 
 ---
