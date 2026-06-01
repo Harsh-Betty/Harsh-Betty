@@ -84,7 +84,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/fufa-ai/fufa-magento/pull/2) in [fufa-ai/fufa-magento](https://github.com/fufa-ai/fufa-magento)
+1. 🎉 Merged PR [#2](https://github.com/fufa-ai/fufa-magento/pull/2) in [fufa-ai/fufa-magento](https://github.com/fufa-ai/fufa-magento)
 <!--END_SECTION:activity-->
 
 ---
