@@ -84,7 +84,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Harsh-Betty/umami-custom-ui/pull/1) in [Harsh-Betty/umami-custom-ui](https://github.com/Harsh-Betty/umami-custom-ui)
+1. 🎉 Merged PR [#2](https://github.com/Harsh-Betty/umami-custom-ui/pull/2) in [Harsh-Betty/umami-custom-ui](https://github.com/Harsh-Betty/umami-custom-ui)
 <!--END_SECTION:activity-->
 
 ---
