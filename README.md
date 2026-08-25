@@ -107,6 +107,10 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/Harsh-Betty/Harsh-Betty/output/snake.svg" alt="snake eating my contributions"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harsh-Betty/Harsh-Betty/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harsh-Betty/Harsh-Betty/output/snake.svg">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Harsh-Betty/Harsh-Betty/output/snake.svg">
+</picture>
 
 <p align="center"><sub>long story short, i survived.</sub></p>
