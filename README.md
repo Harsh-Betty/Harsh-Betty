@@ -93,16 +93,20 @@
 
 <p align="center">
   <a href="https://open.spotify.com/user/xhpw27q0f3aylzbbrtbtschjs">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xhpw27q0f3aylzbbrtbtschjs&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&bar_color=f5b800&bar_color_cover=false&mode=dark" alt="now playing on spotify"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xhpw27q0f3aylzbbrtbtschjs&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&bar_color=f5b800&bar_color_cover=false&mode=dark" alt="now playing on spotify" width="480" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=xhpw27q0f3aylzbbrtbtschjs&count=5&unique=true" alt="recently played on spotify"/>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=xhpw27q0f3aylzbbrtbtschjs&amp;theme=dark&amp;width=480&amp;now_playing=0&amp;album=1&amp;username=off" />
+  <source media="(prefers-color-scheme: light)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=xhpw27q0f3aylzbbrtbtschjs&amp;theme=light&amp;width=480&amp;now_playing=0&amp;album=1&amp;username=off" />
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=xhpw27q0f3aylzbbrtbtschjs&amp;theme=dark&amp;width=480&amp;now_playing=0&amp;album=1&amp;username=off" alt="Spotify recently played" width="480" />
+</picture>
 </p>
 
 ---
 
 <img src="https://raw.githubusercontent.com/Harsh-Betty/Harsh-Betty/output/snake.svg" alt="snake eating my contributions"/>
 
-<p align="center"><sub>Long story short, I survived.</sub></p>
+<p align="center"><sub>long story short, i survived.</sub></p>
