@@ -99,9 +99,9 @@
 
 <p align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=xhpw27q0f3aylzbbrtbtschjs&amp;theme=dark&amp;width=480&amp;now_playing=0&amp;album=1&amp;username=off" />
-  <source media="(prefers-color-scheme: light)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=xhpw27q0f3aylzbbrtbtschjs&amp;theme=light&amp;width=480&amp;now_playing=0&amp;album=1&amp;username=off" />
-  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=xhpw27q0f3aylzbbrtbtschjs&amp;theme=dark&amp;width=480&amp;now_playing=0&amp;album=1&amp;username=off" alt="Spotify recently played" width="480" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=xhpw27q0f3aylzbbrtbtschjs&amp;theme=dark&amp;width=480&amp;unique=1&amp;now_playing=0&amp;progress=0&amp;album=1&amp;username=off" />
+  <source media="(prefers-color-scheme: light)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=xhpw27q0f3aylzbbrtbtschjs&amp;theme=light&amp;width=480&amp;unique=1&amp;now_playing=0&amp;progress=0&amp;album=1&amp;username=off" />
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=xhpw27q0f3aylzbbrtbtschjs&amp;theme=dark&amp;width=480&amp;unique=1&amp;now_playing=0&amp;progress=0&amp;album=1&amp;username=off" alt="Spotify recently played" width="480" />
 </picture>
 </p>
 
