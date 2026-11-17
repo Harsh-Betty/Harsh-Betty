@@ -84,7 +84,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Harsh-Betty/umami-custom-ui/pull/3) in [Harsh-Betty/umami-custom-ui](https://github.com/Harsh-Betty/umami-custom-ui)
+1. 💪 Opened PR [#9](https://github.com/Harsh-Betty/unwrap-git/pull/9) in [Harsh-Betty/unwrap-git](https://github.com/Harsh-Betty/unwrap-git)
 <!--END_SECTION:activity-->
 
 ---
