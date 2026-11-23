@@ -84,7 +84,7 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/Harsh-Betty/unwrap-git/pull/9) in [Harsh-Betty/unwrap-git](https://github.com/Harsh-Betty/unwrap-git)
+1. 🎉 Merged PR [#2](https://github.com/fufa-ai/fufa-docs/pull/2) in [fufa-ai/fufa-docs](https://github.com/fufa-ai/fufa-docs)
 <!--END_SECTION:activity-->
 
 ---
